@@ -1,0 +1,2 @@
+3,5,apple,5000
+8,feijao,mercado,50000
